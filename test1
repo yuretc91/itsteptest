@@ -1,5 +1,7 @@
 HTML
-  Hello world!
   
+  body
+    Hello world!
+  /body
   
 /HTML
